@@ -1,0 +1,7 @@
+[[Prerequisites]]
+=== Prerequisites
+To install the Ruby software development kit, you must have:
+
+* A system with Red Hat Enterprise Linux 7 installed. Both the Server and Workstation variants are supported.
+
+* A subscription to Red Hat Virtualization entitlements.

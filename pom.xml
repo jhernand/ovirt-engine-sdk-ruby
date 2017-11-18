@@ -70,6 +70,7 @@ limitations under the License.
 
   <modules>
     <module>generator</module>
+    <module>guide</module>
     <module>sdk</module>
   </modules>
 

@@ -1,0 +1,17 @@
+= Ruby SDK Guide
+:imagesdir: images
+:vernum: 4.1
+:doctype: book
+:toc: left
+:toclevels: 4
+:numbered!:
+:experimental:
+
+:numbered:
+
+include::chap-Overview.adoc[]
+
+include::chap-Using_the_Software_Development_Kit.adoc[]
+
+include::chap-Ruby_Examples.adoc[]
+
